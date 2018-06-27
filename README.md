@@ -2,6 +2,8 @@
 
 Simulation of coin toss.
 
+![40% 60% coin toss](img/40_60.png)
+
 See in action:  
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/sasa-buklijas/coin_toss/master?filepath=coin_toss.ipynb)
 
