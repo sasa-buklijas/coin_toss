@@ -2,7 +2,7 @@
 
 Simulation of coin toss.
 
-![40% 60% coin toss](img/40_60.png)
+![44% 56% coin toss](img/44_56_name.png)
 
 **See in action:**  
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/sasa-buklijas/coin_toss/master?urlpath=apps%2Fcoin_toss_interactive.ipynb)
